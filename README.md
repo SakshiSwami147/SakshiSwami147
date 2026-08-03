@@ -21,7 +21,7 @@
 
 ## 💻 LeetCode Stats
 
- **[My LeetCode Profile](https://leetcode.com/u/sakshiswami14/)**
+ **[🚀My LeetCode Profile](https://leetcode.com/u/sakshiswami14/)**
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sakshiswami14?theme=dark&font=Nunito&ext=contest" />
