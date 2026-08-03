@@ -25,11 +25,9 @@
   <img src="https://leetcard.jacoblin.cool/sakshiswami14?theme=dark&font=Nunito&ext=contest" />
 </p>
 
-## 🌐 Connect with Me
+
 
 ## 🌐 Connect with Me
-
-## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sakshi-swami-03326b349/" target="_blank">
