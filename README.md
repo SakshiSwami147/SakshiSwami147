@@ -11,7 +11,7 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vercel,firebase,nextjs,nodejs,express,react,fastapi,mysql,mongodb,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nextjs,nodejs,express,react,mysql,mongodb,postman,vercel,firebase,docker,fastapi,git,github" />
 </p>
 
 <p align="left">
@@ -27,12 +27,14 @@
 
 ## 🌐 Connect with Me
 
+## 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/Sakshi Swami">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/sakshi-swami-03326b349/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:sakshiswami795@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
 </p>
 ⭐ Thanks for visiting my profile!
