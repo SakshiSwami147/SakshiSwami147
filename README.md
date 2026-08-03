@@ -36,6 +36,7 @@
 </p>
 
 📧 **Email:** <a href="mailto:sakshiswami795@gmail.com">sakshiswami795@gmail.com</a>
-⭐ Thanks for visiting my profile!
+
+##⭐ Thanks for visiting my profile!
 
 
