@@ -17,17 +17,18 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white" />
 </p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SakshiSwami147
-&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sakshiswami147&theme=tokyonight&hide_border=true" />
+</p>
 </p>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SakshiSwami147&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiSwami147&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshiswami147&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiswami147&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 GitHub Trophies
