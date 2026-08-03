@@ -29,14 +29,15 @@
 
 ## 🌐 Connect with Me
 
+## 📫 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/sakshi-swami-03326b349/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sakshiswami795@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  <a href="https://www.linkedin.com/in/sakshi-swami-03326b349/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 </p>
+
+📧 **Email:** <a href="mailto:sakshiswami795@gmail.com">sakshiswami795@gmail.com</a>
 ⭐ Thanks for visiting my profile!
 
 
