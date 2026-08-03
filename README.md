@@ -24,6 +24,17 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sakshiswami14?theme=dark&font=Nunito&ext=contest" />
 </p>
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/Sakshi Swami">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sakshiswami795@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 ⭐ Thanks for visiting my profile!
 
 
