@@ -21,20 +21,20 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshiswami147&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SakshiSwami147&theme=tokyonight&hide_border=true" />
 </p>
 </p>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshiswami147&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiswami147&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SakshiSwami147&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiSwami147&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshiswami14&theme=tokyonight&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SakshiSwami14&theme=tokyonight&no-frame=true" />
 </p>
 
 ## 💻 LeetCode Stats
