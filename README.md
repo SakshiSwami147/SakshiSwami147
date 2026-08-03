@@ -10,16 +10,18 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nextjs,nodejs,express,react,mysql,mongodb,postman,vercel,firebase,docker,fastapi,git,github" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white" />
 </p>
 
 ## 💻 LeetCode Stats
+
+ **[My LeetCode Profile](https://leetcode.com/u/sakshiswami14/)**
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sakshiswami14?theme=dark&font=Nunito&ext=contest" />
