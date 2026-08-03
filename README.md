@@ -30,8 +30,8 @@
 ## 🌐 Connect with Me
 
 <p align="left">
+  linkdin:
   <a href="https://www.linkedin.com/in/sakshi-swami-03326b349/" target="_blank">
-    **linkdin:**
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 </p>
