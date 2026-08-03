@@ -1,6 +1,7 @@
 # Hi there, I'm Sakshi Swami👋
 
-- 🎓 B.Tech in Electronics & Telecommunication @ Vishwakarma Institute of Technology
+- 🎓 B.Tech in Electronics & Telecommunication @ Vishwakarma Institute of Technology, Pune
+- 🎓 Diploma in Computer Engineering @ Government Polytechnic, Pune 
 - 💻 Passionate about Software Development & Problem Solving
 - 🌱 Currently learning DSA, Backend Development & AI/ML
 - 🚀 Building projects in Web Development, AI/ML
@@ -16,25 +17,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SakshiSwami147&theme=tokyonight&hide_border=true" />
-</p>
-</p>
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SakshiSwami147&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiSwami147&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakshiSwami14&theme=tokyonight&no-frame=true" />
 </p>
 
 ## 💻 LeetCode Stats
