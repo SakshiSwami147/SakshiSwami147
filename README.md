@@ -31,12 +31,14 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sakshi-swami-03326b349/" target="_blank">
+    **linkdin:**
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 </p>
 
 📧 **Email:** <a href="mailto:sakshiswami795@gmail.com">sakshiswami795@gmail.com</a>
 
-##⭐ Thanks for visiting my profile!
+
+⭐ Thanks for visiting my profile!
 
 
